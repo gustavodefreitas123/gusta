@@ -1,0 +1,24 @@
+<html>
+
+<!DOCTYPE html>
+<html lang="pt br">
+<title>Estrtura basica de htmml</title>
+<body>
+<header>
+Aqui vai o conteudo do cabeçalho.
+<nav>Aqui vai a navegaçao.
+</nav>
+</header>
+<aside>
+aqui vai a publicidade dos itens secundarios.
+</aside>
+<sction>
+Aqui comeca de verdade.
+<article>
+é o file mignon, o mais importante.
+</article>
+</section><footer>
+imformaçoes do rodape.
+</footer>
+</body>
+  <html>
